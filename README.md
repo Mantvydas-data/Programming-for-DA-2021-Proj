@@ -4,7 +4,7 @@ Programming for Data Analysis Project 2021
 <img src="https://www.seekpng.com/png/full/70-701501_jupyter-python-and-numpy-logos-python-jupyter-logo.png" width="500"/>
 
 <h2 style="text-align: center;">GMIT Programming for Data Analysis Project 2021</h2>
-<h2 style="text-align: center;">This depository contains a simulation of data set and its analysis.</h2>
+<h2 style="text-align: center;">This repository contains a simulation of data set and its analysis.</h2>
 <h4>Student: Mantvydas Jokubaitis</h4>
 
 ___
